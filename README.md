@@ -5,9 +5,16 @@
 
 ## Dashboard Preview
 
-![Executive Summary](Images/dashboard.png)
-![Loan Details](Images/dashboard.png)
-![Risk Analysis](Images/dashboard.png)
+<img src="https://github.com/amolhatwar/Finance-Risk-Analytics/blob/1d459b5336969608385b2598e687512c7e8ee62a/Finance%20Risk%20Analytics%20-%20Executive%20Summary.png" width="600">
+
+---
+<img src="https://github.com/amolhatwar/Finance-Risk-Analytics/blob/1d459b5336969608385b2598e687512c7e8ee62a/Finance%20Risk%20Analytics%20-%20Risk%20Analysis.png" width="600">
+
+---
+<img src="https://github.com/amolhatwar/Finance-Risk-Analytics/blob/1d459b5336969608385b2598e687512c7e8ee62a/Finance%20Risk%20Analytics%20-%20Loan%20Details.png" width="600">
+
+---
+
 
 ## Project Overview
 
