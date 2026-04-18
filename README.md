@@ -3,6 +3,12 @@
 
 ---
 
+## Dashboard Preview
+
+![Executive Summary](Images/dashboard.png)
+![Loan Details](Images/dashboard.png)
+![Risk Analysis](Images/dashboard.png)
+
 ## Project Overview
 
 A complete Finance Risk Analytics pipeline built from scratch — from raw quarterly CSV files to an interactive Power BI dashboard. This project simulates a real-world banking analytics use case where loan portfolio data is cleaned, transformed, analyzed, and visualized.
